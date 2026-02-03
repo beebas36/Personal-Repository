@@ -15,6 +15,6 @@ I am passionate about learning new tools and technologies, improving my analytic
 ## **📫 How to Reach Me**  
 ## 🔗 LinkedIn Profile  
 [Visit my LinkedIn](https://www.linkedin.com/in/bibas-basnet-data-analyst)  
-## 🔗 📧 Mailing Address  
+## 📧 Mailing Address  
 Email: [bibasbasnet33@gmail.com](mailto:bibasbasnet33@gmail.com)
 
