@@ -13,10 +13,8 @@ I am passionate about learning new tools and technologies, improving my analytic
 - **Data Visualization/Business Intelligence:** Excel, Tableau, Power BI, Matplotlib  
 - **Data Analysis:** NumPy, Pandas, seaborn  
 ## **📫 How to Reach Me**  
-### 🔗 LinkedIn Profile  
-[Visit my LinkedIn](https://www.linkedin.com/in/bibas-basnet-data-analyst)  
-### 📧 Mailing Address  
-[Email](mailto:bibasbasnet33@gmail.com)
+### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/bibas-basnet-data-analyst)  
+### 📧 [Mailing Address](mailto:bibasbasnet33@gmail.com)
 
 ❤[By Bibas Basnet](https://github.com/beebas36)
 
