@@ -1,5 +1,5 @@
 # Personal-Repository
-Hi, there! It's Bibas! 👋  
+# Hi, there! It's Bibas! 👋  
 # **🚀 About Me**  
 I am ✨ Bibas Basnet✨ , a recent graduate with a Bachelor of Computer Applications (BCA) with a strong foundation in programming, data analysis, and software development. My academic journey has equipped me with practical knowledge in database management, data structures, web technologies, data mining, and basic machine learning concepts.
 I enjoy solving real-world problems using technology and data. During my studies, I worked on projects using Python, SQL, Java, Excel, Power BI, and basic analytics, focusing on data cleaning, visualisation, and reporting to support decision-making.
